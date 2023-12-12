@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pzWSbq+iVo4dHxzvvNi/FOmoB+unhGl9mr3SxrExKXKxYKeNWrrwiCwIXisY0JomiBoMWJE/eZJ62JaN0nMOpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad Razza\\source\\repos\\475348-Muhammad-Razza-Titian-Jiwani-ResponsiJuniorProject\\ResponsiJuniorProject\\ResponsiJuniorProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Razza\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Razza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

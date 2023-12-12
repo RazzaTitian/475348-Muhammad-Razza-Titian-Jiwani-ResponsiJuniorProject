@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Muhammad Razza\\source\\repos\\475348-Muhammad-Razza-Titian-Jiwani-ResponsiJuniorProject\\ResponsiJuniorProject\\ResponsiJuniorProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Muhammad Razza\\source\\repos\\475348-Muhammad-Razza-Titian-Jiwani-ResponsiJuniorProject\\ResponsiJuniorProject\\ResponsiJuniorProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muhammad Razza\\source\\repos\\475348-Muhammad-Razza-Titian-Jiwani-ResponsiJuniorProject\\ResponsiJuniorProject\\ResponsiJuniorProject.csproj",
+        "projectName": "ResponsiJuniorProject",
+        "projectPath": "C:\\Users\\Muhammad Razza\\source\\repos\\475348-Muhammad-Razza-Titian-Jiwani-ResponsiJuniorProject\\ResponsiJuniorProject\\ResponsiJuniorProject.csproj",
+        "packagesPath": "C:\\Users\\Muhammad Razza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammad Razza\\source\\repos\\475348-Muhammad-Razza-Titian-Jiwani-ResponsiJuniorProject\\ResponsiJuniorProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muhammad Razza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
